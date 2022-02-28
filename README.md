@@ -7,3 +7,7 @@
    DA模块使用的为高速DAC模块 ADV7123
    disp_driver 为VGA驱动代码
    VGA_CTRL_test为VGA显示代码
+   VGA_test3 是VGA测试代码
+   DDS.zip是DDS测试代码 
+   ADV7123模块的使用在DDS.v文件中已写只需要dac_clk时钟dac_en使能和传入的数据即可使用
+   直接在其对应的DA通道测试即可
